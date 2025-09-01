@@ -18,7 +18,7 @@ SMTP_HOST=smtp.example.com
 SMTP_PORT=587
 SMTP_USER=your_email@example.com
 SMTP_PASS=your_password
-ALERT_TO=destination@example.com
+ALERT_TO=kadiatoundiayeterera@gmail.com
 EOF
 
 # Dockerfile pour exécuter le bot
